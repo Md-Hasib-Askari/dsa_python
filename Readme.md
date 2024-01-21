@@ -8,3 +8,4 @@ This repository contains my solutions to the problems of Apna College
 
 ## 24 Linked List
 1. Reverse a Linked List
+2. Cycle Detection in Linked List
