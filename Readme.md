@@ -10,3 +10,4 @@ This repository contains my solutions to the problems of Apna College
 1. Reverse a Linked List
 2. Cycle Detection in Linked List
 3. Merge Two Sorted Linked List
+4. Delete Node without head pointer
